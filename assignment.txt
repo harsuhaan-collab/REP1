@@ -1,2 +1,3 @@
 Line 1: Completed Section C practical task for Module 2.
 Line 2: Working on branch assignment-branch.
+Line 3: Added another line to assignment.txt.
